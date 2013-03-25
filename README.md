@@ -1,4 +1,4 @@
 Powersoftware
 =============
 
-POwerCMS in den verschiedenen Versionen
+PowerCMS in den verschiedenen Versionen
